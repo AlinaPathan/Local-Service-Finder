@@ -15,8 +15,8 @@ A dynamic website designed to connect service providers with seekers in a local 
 
 - **Frontend**: React, Vite, Tailwind CSS
 - **Backend**: Flask, MySQL
-- **Deployment**: Heroku, Netlify, Vercel
-- **Testing**: Postman, Manual Testing
+- **Deployment**:  Vercel
+- **Testing**: Manual Testing
 
 ## Installation
 
